@@ -10,6 +10,11 @@ int wyswietl()
 int main()
 {
 	cout << "Hello";
+	cout << "Hello";
+	cout << "Hello";
+	cout << "Hello";
+	cout << "Hello";
+	
 	
 	wyswietl();
 	
